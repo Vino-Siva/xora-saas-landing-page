@@ -79,7 +79,7 @@ export const faq = [
   },
   {
     id: "5",
-    question: "What happens when I’m out of storage?",
+    question: "What happens when I&apo;m out of storage?",
     answer:
       "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
   },
