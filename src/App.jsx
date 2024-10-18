@@ -1,3 +1,4 @@
+import Testimonials from "./components/Testimonials";
 import Faq from "./sections/Faq";
 import Features from "./sections/Features";
 import Header from "./sections/Header";
@@ -12,6 +13,7 @@ const App = () => {
       <Features />
       <Pricing />
       <Faq />
+      <Testimonials />
     </main>
   );
 };
